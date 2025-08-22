@@ -48,15 +48,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedSadiqAhamed&theme=highcontrast&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syedsadiq23&theme=highcontrast&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=SyedSadiqAhamed&theme=highcontrast&hide_border=false&include_all_commits=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=syedsadiq23&theme=highcontrast&hide_border=false&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedSadiqAhamed&theme=highcontrast&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsadiq23&theme=highcontrast&layout=compact" alt="Top Languages" />
 </p>
 
 ---
