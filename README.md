@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-![Profile Views](https://komarev.com/ghpvc/?username=syedsadiq23&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=syedsadiq23&label=Profile%20views&color=0e75b6&style=flat) 
 
 <p align="center">
   <!-- Coding gif/banner -->
@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Syed+Sadiq+Ahamed;Engineering+Student+%7C+Full+Stack+Learner;Future+Data+Scientist+%26+ML+Engineer;Always+Exploring,+Always+Building!" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/ >
 
 👋 Hey there! I'm **Syed Sadiq Ahamed** — a passionate learner and tech enthusiast. 
 
