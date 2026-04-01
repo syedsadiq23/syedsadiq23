@@ -16,7 +16,7 @@
 
 👋 Hey there! I'm **Syed Sadiq Ahamed** — a passionate learner and tech enthusiast. 
 
-🎓 Currently pursuing **Engineering (6th Semester, ISE)** with a strong interest in **Full Stack Web Development**, **Data Science**, and **Machine Learning**.  
+🎓 Currently pursuing Engineering (6th Semester, ISE) with a keen interest in Full Stack Web Development, Data Science, and Machine Learning.
 
 💻 I’m passionate about learning new technologies, developing projects, and solving real-world problems through coding.
 
