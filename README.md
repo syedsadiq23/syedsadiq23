@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-👋 Hey there! I'm **Syed Sadiq Ahamed** — a passionate learner and tech enthusiast. 
+👋 Hey there! I'm Syed Sadiq Ahamed — a keen learner and tech lover.
 
 🎓 Currently pursuing Engineering (6th Semester, ISE) with a keen interest in Full Stack Web Development, Data Science, and Machine Learning.
 
