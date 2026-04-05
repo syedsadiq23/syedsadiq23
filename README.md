@@ -18,7 +18,7 @@
 
 🎓 Currently pursuing Engineering (6th Semester, ISE) with a keen interest in Full Stack Web Development, Data Science, and Machine Learning.
 
-💻 I’m passionate about learning new technologies, developing projects, and solving real-world problems through coding.
+💻 I’m passionate about learning new technologies, developing projects, and solving real-world problems through coding. 
 
 🌟 My goal is to become a **skilled Full-Stack Developer** and dive deep into **Data Science & AI** in the future.  
 
