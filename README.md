@@ -22,7 +22,7 @@
 
 🌟 My goal is to become a **skilled Full-Stack Developer** and dive deep into **Data Science & AI** in the future.  
 
-📬 Reach out: **syedsadiqahamed198@gmail.com**  
+📬 Reach out: **syedsadiqahamed198gmail.com**  
 
 <h3 align="center"> ✦✦✦ Future Full-Stack Developer & Data Scientist ✦✦✦ </h3>
 
